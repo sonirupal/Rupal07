@@ -1,0 +1,97 @@
+p{
+    margin-bottom: 3%;
+}
+.div1{
+    margin: auto;
+    position:relative;
+    text-align: center;
+    margin-left: 2.5%;
+    margin-top: 3.5%;
+    
+}
+
+
+.div1 h2{
+    color: brown;
+    text-align: center;
+    margin-bottom: 3%;
+}
+.parentImg{
+    position: relative;
+    margin: auto;
+    height: 120px;
+    width: 180px; 
+}
+
+.aboutMeDiv{
+   position: relative;
+    margin: auto;
+   width: 35% ;
+    text-align: center;
+   text-overflow: ellipsis;
+}
+
+.rupalImg{
+    margin-left: 18%;
+    height: 155px;
+    width: 150px;
+}
+
+.educationalBackgroundDiv{
+    margin: auto;
+    margin-bottom: 5%;
+    width: 45% ;
+    text-align: center;
+    font-style: italic;
+}
+.skillsDiv{
+    text-align:justify;
+    margin-left: 36%;
+    margin-bottom: 5%;
+    padding: 0%;
+    width: 45% ;
+    text-align: center;
+    font-style: italic;
+}
+
+.Projects{
+    margin-top: 5%;
+    margin: auto;
+    width: 45% ;
+    text-align: center;
+    font-style: italic;
+    
+   
+}
+
+body{
+    background-image: url("https://images.unsplash.com/photo-1518655048521-f130df041f66?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cG9ydGZvbGlvJTIwYmFja2dyb3VuZHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80");
+    background-repeat:space;
+    background-size:cover;
+}
+
+.ProjectsDetail{
+    margin: auto;
+    width: 45% ;
+    text-align: center;
+    font-style: italic;
+    margin-bottom: 5%;
+}
+
+.LastDiv{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    
+}
+
+.divA{ 
+    width: 42%;
+    height: 40%;
+    text-align: center;
+    padding: 2%;
+   
+}
+ .LastDiv p{
+     color: goldenrod;
+ }
